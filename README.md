@@ -45,6 +45,7 @@ cd website-repo
 
 3. Open the project in your preferred text editor or IDE.
 
+OR simply go to **https://frabjous-figolla-1d31dc.netlify.app**
 ## Usage
 
 To view the website, follow these steps:
